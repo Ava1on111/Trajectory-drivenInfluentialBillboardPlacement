@@ -1,0 +1,1 @@
+In addition to the three required java files in this submission, I added an additional lib.java and a function to Billboard.java to improve the quality of the code.
